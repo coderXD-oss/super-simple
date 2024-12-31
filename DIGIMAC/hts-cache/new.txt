@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:47:58	26/26	---M--	200	added ('OK')	text/plain	etag:%2266fbc60c-1a%22	https://demo.ovatheme.com/robots.txt		(from )
+19:47:58	233467/233467	---MCZ	200	added ('OK')	text/html	date:Tue,%2031%20Dec%202024%2014:18:03%20GMT	https://demo.ovatheme.com/solume/?storefront=envato-elements	E:/Store/Store/DIGIMAC/demo.ovatheme.com/solume/index04b9.html	(from )
